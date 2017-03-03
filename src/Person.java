@@ -7,7 +7,7 @@ public class Person {
 
         public int getAge()
         {
-            return -1;
+            return this.age;
         }
 
     public static void main(String[] args) {
