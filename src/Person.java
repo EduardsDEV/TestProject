@@ -2,7 +2,7 @@
  * Created by ArcticMonkey on 3/3/2017.
  */
 public class Person {
-        int age;
+        String age;
         String name;
 
         public int getAge()
